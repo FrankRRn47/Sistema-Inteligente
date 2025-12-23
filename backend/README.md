@@ -39,10 +39,7 @@
 | GET    | /profile  | Obtener datos del usuario    | JWT           |
 | PUT    | /profile  | Actualizar datos del usuario | JWT           |
 
-### Análisis de texto
-| Método | Ruta           | Descripción                | Autenticación |
-| ------ | --------------| -------------------------- | ------------- |
-| POST   | /analyze-text | Analiza texto y guarda     | JWT           |
+
 
 ### Media (imágenes, videos, webcam)
 | Método | Ruta                              | Descripción                        | Autenticación |
