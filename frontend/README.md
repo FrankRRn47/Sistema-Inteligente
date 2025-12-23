@@ -1,6 +1,7 @@
-# Emociones IA Frontend
 
-Aplicación React que consume el backend Flask (JWT + análisis de texto) para registrar usuarios, autenticarse, ejecutar análisis de sentimiento y visualizar métricas en un dashboard.
+# Frontend (React + HTML/CSS/JS):
+
+Este frontend profesional está desarrollado en React y utiliza HTML, CSS y JavaScript moderno para ofrecer una interfaz intuitiva y responsiva. Permite a los usuarios registrarse, autenticarse, analizar emociones en imágenes, videos y texto, y visualizar resultados en tiempo real mediante dashboards interactivos. La integración con el backend Flask se realiza mediante API REST y autenticación JWT, garantizando seguridad y escalabilidad.
 
 ## Requisitos
 
