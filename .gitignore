@@ -1,0 +1,32 @@
+# Ignorar entornos virtuales de Python
+.venv/
+venv/
+ENV/
+
+# Ignorar dependencias de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de paquetes
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignorar archivos de configuración de Jupyter y VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos grandes de librerías
+backend/instance/
+tracked/session_media/
+tracked/session_stream/
+tracked_train_files/plots/
+
+# Puedes agregar más carpetas o archivos grandes aquí si es necesario
